@@ -31,4 +31,4 @@ More on [The Odin Project](https://theodinproject.com/).
 
 - Coding hobbies-picture from [Pixabay](https://www.pexels.com/de-de/foto/computer-c-code-276452/)
 
-- The Quote from the Prophet ﷺ [Musnad Ahmad 8600](https://www.abuaminaelias.com/dailyhadithonline/2015/09/14/best-deeds-regular-small/)
+- The Quote from the Prophet ﷺ from [Musnad Ahmad 8600](https://www.abuaminaelias.com/dailyhadithonline/2015/09/14/best-deeds-regular-small/)
