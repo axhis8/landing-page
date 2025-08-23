@@ -29,6 +29,6 @@ More on [The Odin Project](https://theodinproject.com/).
 
 - Dualsense picture from [Pascal](https://www.pexels.com/de-de/foto/playstation-5-konsole-mit-dualsense-controller-33513532/)
 
-- Coding hobbies-picture from [Pixabay] (https://www.pexels.com/de-de/foto/computer-c-code-276452/)
+- Coding hobbies-picture from [Pixabay](https://www.pexels.com/de-de/foto/computer-c-code-276452/)
 
 - The Quote from the Prophet ﷺ [Musnad Ahmad 8600] (https://www.abuaminaelias.com/dailyhadithonline/2015/09/14/best-deeds-regular-small/)
