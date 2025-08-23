@@ -25,6 +25,11 @@ button {
     background-color: #3882F6;
     padding: 4px 22px;
     margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover  {
+    background-color:#265aae;
 }
 
 .header {
@@ -49,11 +54,13 @@ button {
 }
 
 .logo,
-.title {
+.title,
+.info-title {
     font-weight: 900;
 }
 
-.logo {
+.logo,
+.info-title {
     font-size: 24px;
 }
 
@@ -69,7 +76,7 @@ a {
 
 .placeholder {
     flex-shrink: 0;
-    background-color: rgba(128, 128, 128, 0.612);
+    background-color: rgba(128, 128, 128, 0.809);
     height: 200px;
     flex-basis: 400px;
     max-width: 400px;
@@ -78,5 +85,33 @@ a {
     justify-content: center;
 }
 
+.info-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
 
+.information {
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
 
+.info-image {
+    padding: 16px;
+    border-radius: 20px;
+    border: 4px solid #3882F6;
+    width: 120px;
+    height: 120px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+}
