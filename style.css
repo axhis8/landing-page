@@ -17,7 +17,6 @@ ul {
 a {
     text-decoration: none;
     color: #F9FAF8;
-    margin: 0 10px;
 }
 
 .signup,
@@ -45,16 +44,27 @@ button:hover  {
     color: #1F2937;
 }
 
-.header {
-    color: #F9FAF8;
+.header,
+.footer {
     background-color: #1F2937;
+    color: #F9FAF8;
     display: flex;
+}
+
+.links,
+.nav {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.header {
     flex-direction: column;
     padding: 16px 32px 48px;
 }
 
 .nav {
-    display: flex;
     justify-content: space-between;
     margin-bottom: 64px;
 }
@@ -63,7 +73,7 @@ button:hover  {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
 }
 
 .logo,
@@ -90,6 +100,7 @@ button:hover  {
 .title-para,
 .signup,
 .signup-desc,
+.footer,
 a {
     font-size: 18px;
     color: #e5e7ebd8;
@@ -110,6 +121,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-grow: 1;
 }
 
 .info-title {
@@ -119,6 +131,7 @@ a {
 }
 
 .information {
+    flex: 1;
     font-size: 15px;
     margin: 0 10px;
     display: flex;
@@ -155,7 +168,7 @@ li {
 }
 
 .quote .q-text {
-    font-weight: 250;
+    font-weight: 100;
     font-style: italic;
 }
 
@@ -172,9 +185,11 @@ li {
 
 .signup {
     align-self: center;
-    width: 700px;
+    max-width: 700px;
+    width: 100%;
     color: white;
     padding: 40px 100px;
+    margin: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -182,4 +197,10 @@ li {
 
 .signup-header {
     font-size: 20px;
+}
+
+.footer {
+    padding: 32px 64px;
+    justify-content: center;
+    align-items: center;
 }
