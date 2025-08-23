@@ -2,6 +2,8 @@
 
 ## About this Project
 
+This Landing Page is a description of myself for my portofolio. It's a practice for the use of Flexbox in CSS, as it's my first project with this language.
+
 This project is a task from The Odin Project, a structured full stack development course. You can learn at your own pace and it starts from 0 to getting employed. I highly recommend taking this course.
 More on [The Odin Project](https://theodinproject.com/).
 
