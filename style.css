@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    gap: 60px;
 }
 
 ul {
@@ -19,12 +20,16 @@ a {
     margin: 0 10px;
 }
 
+.signup,
+button {
+    background-color: #3882F6;
+}
+
 button {
     font-size: 14px;
     border-radius: 5px;
     border: none;
     color: white;
-    background-color: #3882F6;
     padding: 8px 26px;
     margin-top: 10px;
     cursor: pointer;
@@ -64,7 +69,8 @@ button:hover  {
 .logo,
 .title,
 .info-title,
-.quoter {
+.quoter,
+.signup-header {
     font-weight: 900;
 }
 
@@ -82,9 +88,17 @@ button:hover  {
 }
 
 .title-para,
+.signup,
+.signup-desc,
 a {
     font-size: 18px;
     color: #e5e7ebd8;
+}
+
+.info-image,
+.signup {
+    border-radius: 12px;
+
 }
 
 .placeholder {
@@ -102,12 +116,11 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 50px;
 }
 
 .information {
     font-size: 15px;
-    margin: 0 10px 60px;
+    margin: 0 10px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -117,7 +130,6 @@ a {
 
 .info-image {
     padding: 16px;
-    border-radius: 20px;
     border: 4px solid #3882F6;
     height: 120px;
     width: 120px;
@@ -134,7 +146,6 @@ li {
 
 .quote {
     background-color: #E5E7EB;
-    margin-bottom: 60px;
     padding: 75px 200px;
     display: flex;
     flex-direction: column;
@@ -151,4 +162,24 @@ li {
 .quoter {
     display: flex;
     align-self: flex-end;
+}
+
+.signup button {
+    border: 2px solid white;
+    padding: 5px 26px;
+    flex-shrink: 0;
+}
+
+.signup {
+    align-self: center;
+    width: 700px;
+    color: white;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signup-header {
+    font-size: 20px;
 }
