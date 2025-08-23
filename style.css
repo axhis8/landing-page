@@ -19,6 +19,10 @@ a {
     color: #F9FAF8;
 }
 
+a:hover {
+    color: #dddddd;
+}
+
 .signup,
 button {
     background-color: #3882F6;
@@ -35,7 +39,7 @@ button {
 }
 
 button:hover  {
-    background-color:#265aae;
+    background-color:rgb(43, 101, 195);
 }
 
 .quote p,
@@ -76,6 +80,11 @@ button:hover  {
     gap: 50px;
 }
 
+.title,
+.title-para {
+    margin: 16px 0;
+}
+
 .logo,
 .title,
 .info-title,
@@ -107,21 +116,22 @@ a {
 }
 
 .info-image,
-.signup {
+.signup,
+.header-picture {
     border-radius: 12px;
 
 }
 
-.placeholder {
+.header-picture {
     flex-shrink: 0;
     background-color: rgba(128, 128, 128, 0.809);
-    height: 200px;
+    max-height: 200px;
     flex-basis: 400px;
     max-width: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-grow: 1;
+    border: 5px solid #10161d;
 }
 
 .info-title {
@@ -142,10 +152,12 @@ a {
 }
 
 .info-image {
-    padding: 16px;
+    flex-shrink: 0;
+    box-sizing: content-box;
     border: 4px solid #3882F6;
-    height: 120px;
-    width: 120px;
+    height: 160px;
+    width: 160px;
+    object-fit: cover; 
 }
 
 li {

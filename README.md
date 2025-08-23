@@ -18,3 +18,17 @@ More on [The Odin Project](https://theodinproject.com/).
 5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
 
 6. When you finish, don’t forget to push it up to GitHub!
+
+## Credits
+
+- Coding head-picture from [Pixabay](https://www.pexels.com/de-de/foto/html-quelltext-270366/)
+
+- Cooking picture from [Cleam Onojeghuo](https://www.pexels.com/de-de/foto/person-die-auf-edelstahl-kochtopf-kocht-175753/)
+
+- Library picture from [Gabriel Grip](https://www.pexels.com/de-de/foto/bucher-leiter-ecke-bibliothek-19369819/)
+
+- Dualsense picture from [Pascal](https://www.pexels.com/de-de/foto/playstation-5-konsole-mit-dualsense-controller-33513532/)
+
+- Coding hobbies-picture from [Pixabay] (https://www.pexels.com/de-de/foto/computer-c-code-276452/)
+
+- The Quote from the Prophet ﷺ [Musnad Ahmad 8600] (https://www.abuaminaelias.com/dailyhadithonline/2015/09/14/best-deeds-regular-small/)
