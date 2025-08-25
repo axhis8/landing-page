@@ -61,11 +61,12 @@ button:hover  {
     display: flex;
     gap: 16px;
     align-items: center;
+    justify-content: space-between;
 }
 
 .nav,
-.header-align {
-    justify-content: space-between;
+.header-align,
+.quote {
     width: 800px;
 }
 
@@ -171,13 +172,20 @@ li {
     width: 120px;
 }
 
-.quote {
+.quote-box {
     background-color: #E5E7EB;
     padding: 75px 220px;
+}
+
+.quote,
+.quote-box {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.quote {
     gap: 16px;
 }
 
