@@ -2,24 +2,33 @@
 
 ## About this Project
 
-This Landing Page is a description of myself for my portofolio. It's a practice for the use of Flexbox in CSS, as it's my first project with this language.
+This Landing Page is a description of myself for my portfolio. It's a practice for the use of Flexbox in CSS, as it's my first project with this language.
 
 This project is a task from The Odin Project, a structured full stack development course. You can learn at your own pace and it starts from 0 to getting employed. I highly recommend taking this course.
 More on [The Odin Project](https://theodinproject.com/).
 
-### Assignment
+## Live Demo
 
-1. Download the design images and take a look at what you’re going to be creating here.
+Visit the page online: [landing page](https://axhis8.github.io/landing-page/)
 
-2. There are many ways to tackle a project like this, and it can be overwhelming to look at a blank HTML document and not know where to start. Our suggestion: take it one section at a time. The website you’re creating has 4 main sections (and a footer), so pick one and get it into pretty good shape before moving on. Starting at the top is always a solid plan.
+## Features
 
-3. For the section you’re working on, begin by getting all the content onto the page before beginning to style it. In other words, do the HTML and then do the CSS. You’ll probably have to go back to the HTML once you start styling, but bouncing back and forth from the beginning will take more time and may cause more frustration. (Note: you don’t need to use more than one stylesheet. Using only one CSS file is adequate for this project).
+- Use of CSS Flexboxes
+- Buttons to send an email to the Author
 
-4. Many of the elements on this page are very similar to things you saw in our flexbox exercises… feel free to go back to those if you need a refresher.
+## Built With
 
-5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
+- HTML5
+- CSS3
 
-6. When you finish, don’t forget to push it up to GitHub!
+## What I Learned
+
+- Flexbox
+- CSS Alignment & Design
+
+## Screenshot
+
+![Landing Page Screenshot](./images/screenshot.png)
 
 ## Credits
 
